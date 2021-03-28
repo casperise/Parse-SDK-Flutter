@@ -14,7 +14,7 @@ dependencies:
   parse_server_sdk:
     git:
       url: git@github.com:casperise/Parse-SDK-Flutter.git
-      path: packages/dart??
+      path: packages/dart
       ref: master
 
   # Networking
